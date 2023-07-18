@@ -1,2 +1,2 @@
 # Tell-a-joke
-tell-a-jokes.netlify.app
+https://tell-a-jokes.netlify.app/
